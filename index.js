@@ -235,4 +235,4 @@ client.on('interactionCreate', async (interaction) => {
 
 });
 keepAlive();
-client.login("MTEyMzQxOTk5MzczMjgyMTA0Mg.Gc7yx-.bLbIzW_MEIaBTYzwu7ZwcIr3VPHvw_kvq158d4");
+client.login(config.TOKEN);
